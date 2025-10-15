@@ -33,5 +33,5 @@ information
 
 3.Online learning participation reflects strong self-discipline and higher academic performance.
 
-<img "C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-10-15 222832.png" />
+<img width="1074" height="667" alt="https://github.com/inshafirdause123/Power-BI/blob/main/Dashboard" />
  
